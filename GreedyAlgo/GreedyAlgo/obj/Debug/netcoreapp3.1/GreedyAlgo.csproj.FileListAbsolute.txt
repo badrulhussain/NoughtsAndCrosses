@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.exe
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.deps.json
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.dll
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.pdb
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.dll
+C:\Users\PC\Documents\GitHub\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.pdb
